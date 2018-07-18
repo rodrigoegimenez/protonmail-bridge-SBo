@@ -1,0 +1,20 @@
+# HOW TO EDIT THIS FILE:
+# The "handy ruler" below makes it easier to edit a package description.
+# Line up the first '|' above the ':' following the base package name, and
+# the '|' on the right side marks the last column you can put a character in.
+# You must make exactly 11 lines for the formatting to be correct.  It's also
+# customary to leave one space after the ':' except on otherwise blank lines.
+
+                   |-----handy-ruler------------------------------------------------------|
+protonmail-bridge: protonmail-bridge 
+protonmail-bridge:
+protonmail-bridge: ProtonMail Bridge is an application for paid users that runs on your 
+protonmail-bridge: computer in the background and seamlessly encrypts and decrypts your 
+protonmail-bridge: mail as it enters and leaves your computer. It allows for full 
+protonmail-bridge: integration of your ProtonMail account with any program that supports 
+protonmail-bridge: IMAP and SMTP such as Microsoft Outlook, Mozilla Thunderbird and Apple 
+protonmail-bridge: Mail.
+protonmail-bridge:
+protonmail-bridge:
+protonmail-bridge:
+protonmail-bridge:
